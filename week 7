@@ -1,0 +1,36 @@
+
+C:\Users\User>cd sekolah
+
+C:\Users\User\sekolah>nano ijazah.txt
+
+C:\Users\User\sekolah>cat ijazah.txt
+Perkenalkan namaku Dwi Chairunnisa
+Aku berasal dari Bekasi
+Salam kenal
+
+C:\Users\User\sekolah>nano portfolio.txt
+
+C:\Users\User\sekolah>cat portfolio.txt
+Saya pernah bekerja pada beberapa perusahaan salah satu diantaranya ialah
+- GOOGLE
+- SHOPEE
+- SAMSUNG
+
+C:\Users\User\sekolah>cd ..
+
+C:\Users\User>mkdir kerja
+
+C:\Users\User>cd kerja
+
+C:\Users\User\kerja>nano cv.txt
+
+C:\Users\User\kerja>cat cv.txt
+Salam,
+Perkenalkan namaku Dwi Chairunnisa, saya memiliki kegemaran
+- Memasak
+- Membaca
+- Kuliner
+
+C:\Users\User\kerja>cd ../sekolah
+
+C:\Users\User\sekolah>mv portfolio.txt ../kerja/
